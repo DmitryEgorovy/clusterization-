@@ -42,7 +42,7 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 Решение:
 Запустите два simple python сервера на своей виртуальной машине на разных портах
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/ed3b33823fc67e0a4e86d7a2b5a728661410b9fb/screenshot/1.1.png)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
