@@ -45,6 +45,14 @@
 Запустите два simple python сервера на своей виртуальной машине на разных портах
 ![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/ed3b33823fc67e0a4e86d7a2b5a728661410b9fb/screenshot/1.1.png)
 
+перенаправление запросов на разные серверы при обращении к HAProxy
+![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/ed3b33823fc67e0a4e86d7a2b5a728661410b9fb/screenshot/1.2.png)
+
+конфигурационный файл haproxy
+
+
+
+
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
 - Настройте балансировку Weighted Round Robin на 7 уровне, чтобы первый сервер имел вес 2, второй - 3, а третий - 4
