@@ -46,7 +46,7 @@
 ![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/ed3b33823fc67e0a4e86d7a2b5a728661410b9fb/screenshot/1.1.png)
 
 перенаправление запросов на разные серверы при обращении к HAProxy
-![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/ed3b33823fc67e0a4e86d7a2b5a728661410b9fb/screenshot/1.2.png)
+![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/4ed3c17ba9895be86d9f79e8bdf891deda5dd763/screenshot/1.2.png)
 
 конфигурационный файл haproxy
 
