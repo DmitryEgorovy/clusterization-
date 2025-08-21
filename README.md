@@ -67,6 +67,7 @@ https://github.com/DmitryEgorovy/clusterization-/blob/a53baad2ba602154956ae170b6
 ![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/55f0152a96cd5b80a2956ab18e316b8880be21ef/screenshot/2.1.png)
 
 Конфигурационный файл haproxy 2 задание
+https://github.com/DmitryEgorovy/clusterization-/blob/a42fca7c7cc73ab89f9c47eeeac84069c3fe6e98/files/haproxy2.cfg
 
 
 
