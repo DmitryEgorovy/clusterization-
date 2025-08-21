@@ -49,7 +49,7 @@
 ![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/4ed3c17ba9895be86d9f79e8bdf891deda5dd763/screenshot/1.2.png)
 
 конфигурационный файл haproxy
-![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/a53baad2ba602154956ae170b6489531043b3c9d/files/haproxy.cfg)
+https://github.com/DmitryEgorovy/clusterization-/blob/a53baad2ba602154956ae170b6489531043b3c9d/files/haproxy.cfg
 
 
 
