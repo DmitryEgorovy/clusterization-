@@ -60,6 +60,14 @@ https://github.com/DmitryEgorovy/clusterization-/blob/a53baad2ba602154956ae170b6
 - HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
+------
+Решение:
+
+Скриншот трех simle python серверов на разных портах и балансировка трафика адресованная домену example.local
+![alt text](https://github.com/DmitryEgorovy/clusterization-/blob/55f0152a96cd5b80a2956ab18e316b8880be21ef/screenshot/2.1.png)
+
+Конфигурационный файл haproxy 2 задание
+
 
 
 ---
